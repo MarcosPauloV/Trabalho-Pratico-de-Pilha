@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1633350028 source:c:\users\marco\desktop\2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+
+1633303141 c:\users\marco\desktop\2\pilha.h
+
+1633260610 source:c:\users\marco\desktop\2\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+
+1633260610 source:c:\users\marco\desktop\faculdade\2\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+
+1633351157 c:\users\marco\desktop\faculdade\2\pilha.h
+
+1633351177 source:c:\users\marco\desktop\faculdade\2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+
+1633354026 source:c:\users\marcos paulo\desktop\615b0192e0577\atividade de pilha\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+
+1633351157 c:\users\marcos paulo\desktop\615b0192e0577\atividade de pilha\pilha.h
+
+1633260610 source:c:\users\marcos paulo\desktop\615b0192e0577\atividade de pilha\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+
+1633260610 source:c:\users\marco\desktop\atividade de pilha real\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+
+1633351157 c:\users\marco\desktop\atividade de pilha real\pilha.h
+
+1633456646 source:c:\users\marco\desktop\atividade de pilha real\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+
